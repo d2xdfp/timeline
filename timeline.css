@@ -2115,7 +2115,7 @@
   margin-left: 76px;
 }
 .tl-slidenav-next .tl-slidenav-icon:before {
-  content: "\e64f";
+  content: "\2192";
 }
 .tl-slidenav-previous {
   text-align: left;
@@ -2125,7 +2125,7 @@
   margin-left: 0px;
 }
 .tl-slidenav-previous .tl-slidenav-icon:before {
-  content: "\e650";
+  content: "\2190";
 }
 /* NAVIGATION HOVER
 ================================================== */
