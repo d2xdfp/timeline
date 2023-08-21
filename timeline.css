@@ -55,11 +55,16 @@
 .tl-timeline h5,
 .tl-timeline h6 {
   color: #000;
+  font-family: 'PT Sans Narrow', sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 24px;
 }
 .tl-timeline h1,
 .tl-timeline h2,
 .tl-timeline h3 {
-  font-size: 20px;
+  font-size: 28px;
   line-height: 28px;
 }
 .tl-timeline h1 small,
