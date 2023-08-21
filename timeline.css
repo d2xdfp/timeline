@@ -42,6 +42,7 @@
 /*	Mixins.less
 	Snippets of reusable CSS to develop faster and keep code readable
  * ----------------------------------------------------------------- */
+@charset "UTF-8";
 .tl-timeline {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   /* VCard
